@@ -1,0 +1,12 @@
+{
+    "name": "kirilltyrov/braingames",
+    "description": "\"package games\"",
+    "authors": [
+        {
+            "name": "Kirill Tyrov",
+            "email": "treangl@gmail.com"
+        }
+    ],
+    "bin" : ["bin/brain-games"],
+    "require": {}
+}
